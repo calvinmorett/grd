@@ -1,0 +1,8 @@
+@media only screen and (max-width: 600px) {
+    .Cell {
+        clear: both;
+        display: block;
+        max-width: 100%;
+        width: calc(100%*12/12)!important;
+    }
+}
